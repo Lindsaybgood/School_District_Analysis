@@ -6,8 +6,8 @@ The purpose of this project is to analyze the data of an entire School District,
 ## Resources
 * Data Source: schools_complete.csv
 * Data Source: students_complete.csv
-* Sofware: Jupyter Notebook 6.3.0
-* Language: Python 3.6.7
+* Sofware: Jupyter Notebook 6.4.5
+* Language: Python 3.9.7
 
 ## Results
 Due to potential academic dishonesty by the ninth grade students of Thomas High School, this analysis was conducted twice. The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. The entire ninth grade class of Thomas High School have had their scores replaced with NaN. The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
